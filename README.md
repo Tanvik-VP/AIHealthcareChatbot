@@ -18,7 +18,7 @@ The Medical Bot is a powerful question-answering system built on top of state-of
 ### Prerequisites
 
 1. Python 3.7 or later.
-2. Make sure to download the `llama-2-7b-chat.ggmlv3.q8_0.bin` model from HuggingFace.
+2. Make sure to download the `llama-2-7b-chat.ggmlv3.q8_0.bin` model from HuggingFace. [ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML] 
 3. Install chain lit using `pip install chainlit`
 4. Install faiss using `pip install faiss-cpu`
 5. Install langchain using `pip install langchain`
